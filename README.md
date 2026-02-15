@@ -1,1 +1,0 @@
-# CS614-AI-Industrial-Quality-Inspector
