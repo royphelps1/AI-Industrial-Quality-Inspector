@@ -25,6 +25,24 @@ The system combines:
 
 ---
 
+## Example Results
+
+### Grad-CAM Explainability
+
+The Grad-CAM visualization highlights the image regions that most strongly influenced the model's prediction.
+
+![Grad-CAM Example](outputs/figures/gradcam_examples.png)
+
+### Training Performance
+
+Training curves showing model convergence.
+
+![Training Loss](outputs/figures/loss.png)
+
+![Training Accuracy](outputs/figures/accuracy.png)
+
+---
+
 # Objective
 
 Build a **multi-class image classification system** capable of identifying manufacturing defects from surface images and generating interpretable visual explanations.
