@@ -47,21 +47,24 @@ The project uses the following machine learning techniques:
 ---
 
 ## Project Structure
+
+```
 CS614-AI-Industrial-Quality-Inspector
 │
 ├── data/
-│ └── raw/ # raw dataset (ignored in git)
+│   └── raw/              (raw dataset – ignored in git)
 │
 ├── notebooks/
-│ ├── 01_data_exploration.ipynb
-│ └── Final Project.ipynb
+│   ├── 01_data_exploration.ipynb
+│   └── Final Project.ipynb
 │
 ├── outputs/
-│ ├── figures/ # evaluation plots and Grad-CAM examples
-│ └── models/ # trained model checkpoint
+│   ├── figures/          (evaluation plots and Grad-CAM examples)
+│   └── models/           (trained model checkpoint)
 │
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
