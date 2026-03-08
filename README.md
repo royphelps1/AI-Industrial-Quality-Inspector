@@ -102,6 +102,7 @@ The notebook performs the following steps:
 ## Results
 
 The trained model demonstrates effective classification of industrial surface defects and produces interpretable Grad-CAM visualizations highlighting the regions responsible for predictions.
+![Confusion Matrix](outputs/figures/confusion_matrix.png)
 
 Example outputs include:
 
