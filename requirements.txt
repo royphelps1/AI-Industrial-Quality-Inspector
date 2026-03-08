@@ -7,3 +7,4 @@ matplotlib
 pillow
 scikit-learn
 jupyter
+opencv-python
