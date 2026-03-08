@@ -1,0 +1,9 @@
+# Environment requirements
+
+torch
+torchvision
+numpy
+matplotlib
+pillow
+scikit-learn
+jupyter
