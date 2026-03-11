@@ -173,4 +173,4 @@ outputs/figures/
 
 **Roy Phelps**  
 Drexel University  
-CS614 – Applications of Machine Learning
+
