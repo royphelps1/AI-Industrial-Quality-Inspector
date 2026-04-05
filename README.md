@@ -1,4 +1,3 @@
-# CS614 Final Project  
 ## AI Industrial Quality Inspector
 
 Computer vision system for **automated industrial surface defect detection** using **transfer learning and explainable AI**.
@@ -96,7 +95,7 @@ The project uses the following machine learning techniques:
 # Project Structure
 
 ```
-CS614-AI-Industrial-Quality-Inspector
+AI-Industrial-Quality-Inspector
 │
 ├── data/
 │   └── raw/              (dataset – ignored by git)
@@ -120,8 +119,8 @@ CS614-AI-Industrial-Quality-Inspector
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/CS614-AI-Industrial-Quality-Inspector.git
-cd CS614-AI-Industrial-Quality-Inspector
+git clone https://github.com/YOUR_USERNAME/AI-Industrial-Quality-Inspector.git
+cd AI-Industrial-Quality-Inspector
 ```
 
 Install dependencies:
@@ -171,6 +170,6 @@ outputs/figures/
 
 # Author
 
-**Roy Phelps**  
-Drexel University  
+**Roy Phelps**   
+Drexel University
 
