@@ -136,7 +136,7 @@ pip install -r requirements.txt
 Open and run the notebook:
 
 ```
-notebooks/Final Project.ipynb
+notebooks/Final.ipynb
 ```
 
 The notebook performs the following steps:
