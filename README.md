@@ -171,5 +171,5 @@ outputs/figures/
 # Author
 
 **Roy Phelps**   
-Drexel University
+
 
